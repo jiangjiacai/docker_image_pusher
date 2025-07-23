@@ -7,3 +7,4 @@ nginx
 
 docker/dockerfile
 node:20-alpine3.22
+python:3.11-slim
